@@ -39,10 +39,7 @@ The goal is to assist in premium personalization and financial risk assessment.
 - NumPy
 
 ---
-
-
----
-
+  
 ## 📈 Key Steps
 
 - Data Cleaning & Outlier Removal
@@ -57,5 +54,3 @@ The goal is to assist in premium personalization and financial risk assessment.
 ## 💡 Author
 
 Ashwin Kumar A.
-
-## 📂 Project Structure
