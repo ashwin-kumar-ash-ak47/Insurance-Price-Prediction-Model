@@ -40,4 +40,22 @@ The goal is to assist in premium personalization and financial risk assessment.
 
 ---
 
+
+---
+
+## 📈 Key Steps
+
+- Data Cleaning & Outlier Removal
+- Statistical Testing (T-test & ANOVA)
+- Multicollinearity Check (VIF)
+- Feature Engineering
+- Model Training & Evaluation
+- Web App Deployment
+
+---
+
+## 💡 Author
+
+Ashwin Kumar A.
+
 ## 📂 Project Structure
